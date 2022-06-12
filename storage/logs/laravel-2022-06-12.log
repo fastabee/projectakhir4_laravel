@@ -1,0 +1,5 @@
+[2022-06-12 10:05:55] production.ERROR: Maximum execution time of 60 seconds exceeded {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Maximum execution time of 60 seconds exceeded at D:\
+ew laravel\\booking1\\vendor\\laravel\\framework\\src\\Illuminate\\Database\\Events\\QueryExecuted.php:60)
+[stacktrace]
+#0 {main}
+"} 
